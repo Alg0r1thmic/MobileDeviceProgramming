@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 13 11:02:57 PET 2020
+0.baseType=DIRECTORY
+0.base=/home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/android-fundamentals-apps-v2/TwoActivities/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

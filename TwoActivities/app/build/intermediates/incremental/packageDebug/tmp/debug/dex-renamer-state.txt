@@ -1,0 +1,4 @@
+#Fri Nov 13 11:02:57 PET 2020
+base.0=/home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/android-fundamentals-apps-v2/TwoActivities/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
