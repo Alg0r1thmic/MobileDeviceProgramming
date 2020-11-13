@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/serlog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/3039d2deec0f8f0dbe00aab8f963eca2/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

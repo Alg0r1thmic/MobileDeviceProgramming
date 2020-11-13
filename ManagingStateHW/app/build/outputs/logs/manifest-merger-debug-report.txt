@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/3039d2deec0f8f0dbe00aab8f963eca2/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/serlog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ec30c0054570c8466d855df1faeef2b1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/27f8f49db9ae455acaf1e1478cc1eb24/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/75e602fad1b75b87d6d08f010c84fec7/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/e230baba977029bf98255e41d52fba5b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/4363d4ef58d767abcc406c9ccfbcf593/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/239a955afcfc880aaade63a6ef74bcd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/fd1731ece17323cd779628aec5726335/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/23beb26af43d1314aef32976d01e5a24/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/fc0598ae7b489c4185dac9156d67af7d/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/7773fa303d18c4634731aaf2e05cf2ff/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/396c2b381adf185f4c214fd6d3e302d7/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/b49195920704e64ee34f00d1f6d816cd/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/ba1125285bdc8283f8383d9094281226/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/8efd245a71fa0b18d0fde9831af4370b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/e16c28fed4d545e02353b2f1df3bbb7f/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/376394e53b72263641a6e83dcc028365/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/9825fec626e4fbb40d9b868163ea6507/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/3c3d3326a3829d69d8e9a60ec5c112d2/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/c50023e57145ffd54259164696252f51/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/f455f27e4125b751105fb1740e790a35/AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c0c08651806aba04602451c8fc2c6850/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7fbd9205c767e3e007908c0c46b7ade4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b1d5a663fdb72691471145ea61c56631/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c5d2339495dc0e6cc53577b7545d3b0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/serlog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ec30c0054570c8466d855df1faeef2b1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/serlog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ec30c0054570c8466d855df1faeef2b1/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:11:9-40
+activity#me.mahakagg.managingstatehw.MainActivity
+ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:launchMode
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:13:13-43
+	android:name
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/3039d2deec0f8f0dbe00aab8f963eca2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha1.aar/3039d2deec0f8f0dbe00aab8f963eca2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/serlog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ec30c0054570c8466d855df1faeef2b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/serlog/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ec30c0054570c8466d855df1faeef2b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/27f8f49db9ae455acaf1e1478cc1eb24/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha1.aar/27f8f49db9ae455acaf1e1478cc1eb24/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/75e602fad1b75b87d6d08f010c84fec7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha1.aar/75e602fad1b75b87d6d08f010c84fec7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/e230baba977029bf98255e41d52fba5b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha1.aar/e230baba977029bf98255e41d52fba5b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/4363d4ef58d767abcc406c9ccfbcf593/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha1.aar/4363d4ef58d767abcc406c9ccfbcf593/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/239a955afcfc880aaade63a6ef74bcd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha1.aar/239a955afcfc880aaade63a6ef74bcd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/fd1731ece17323cd779628aec5726335/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha1.aar/fd1731ece17323cd779628aec5726335/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/23beb26af43d1314aef32976d01e5a24/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha1.aar/23beb26af43d1314aef32976d01e5a24/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/fc0598ae7b489c4185dac9156d67af7d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha1.aar/fc0598ae7b489c4185dac9156d67af7d/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/7773fa303d18c4634731aaf2e05cf2ff/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha1.aar/7773fa303d18c4634731aaf2e05cf2ff/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/396c2b381adf185f4c214fd6d3e302d7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha1.aar/396c2b381adf185f4c214fd6d3e302d7/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/b49195920704e64ee34f00d1f6d816cd/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha1.aar/b49195920704e64ee34f00d1f6d816cd/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/ba1125285bdc8283f8383d9094281226/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha1.aar/ba1125285bdc8283f8383d9094281226/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/8efd245a71fa0b18d0fde9831af4370b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha1.aar/8efd245a71fa0b18d0fde9831af4370b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/e16c28fed4d545e02353b2f1df3bbb7f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/e16c28fed4d545e02353b2f1df3bbb7f/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/376394e53b72263641a6e83dcc028365/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha1.aar/376394e53b72263641a6e83dcc028365/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/9825fec626e4fbb40d9b868163ea6507/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha1.aar/9825fec626e4fbb40d9b868163ea6507/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/3c3d3326a3829d69d8e9a60ec5c112d2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha1.aar/3c3d3326a3829d69d8e9a60ec5c112d2/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/c50023e57145ffd54259164696252f51/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha1.aar/c50023e57145ffd54259164696252f51/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/f455f27e4125b751105fb1740e790a35/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] /home/serlog/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha1.aar/f455f27e4125b751105fb1740e790a35/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c0c08651806aba04602451c8fc2c6850/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c0c08651806aba04602451c8fc2c6850/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7fbd9205c767e3e007908c0c46b7ade4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7fbd9205c767e3e007908c0c46b7ade4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b1d5a663fdb72691471145ea61c56631/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b1d5a663fdb72691471145ea61c56631/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c5d2339495dc0e6cc53577b7545d3b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/serlog/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c5d2339495dc0e6cc53577b7545d3b0/AndroidManifest.xml:20:5-44
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+		ADDED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
+		INJECTED from /home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/src/main/AndroidManifest.xml
