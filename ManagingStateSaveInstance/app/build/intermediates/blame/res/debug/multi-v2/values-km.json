@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/Android-Developer-Fundamentals-Version-2/2.2_Activity_lifecycle_and_state/ManagingStateHW/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
+            "outputFile": "/home/serlog/Escritorio/Raúl/Semestre-2020-II/MobileDeviceProgramming/ManagingStateSaveInstance/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/home/serlog/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha1.aar/e16c28fed4d545e02353b2f1df3bbb7f/res/values-km/values-km.xml",

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ManagingStateHW.iml" filepath="$PROJECT_DIR$/ManagingStateHW.iml" group="ManagingStateHW" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ManagingStateHW/app" />
+      <module fileurl="file://$PROJECT_DIR$/ManagingStateSaveInstance.iml" filepath="$PROJECT_DIR$/ManagingStateSaveInstance.iml" group="ManagingStateSaveInstance" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ManagingStateSaveInstance/app" />
     </modules>
   </component>
 </project>
